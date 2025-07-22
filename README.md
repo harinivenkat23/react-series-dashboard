@@ -1,30 +1,39 @@
-# react-series-dashboard
+# React Series Dashboard
 
-A beginner-friendly React dashboard for managing web series, built with reusable components, category filters, live search, and mock MongoDB-style data.
+This is a simple React-based dashboard created to track trending and upcoming TV/web series. It is part of my full-stack development learning path and was submitted as a job assignment to demonstrate my growing skills in React, JavaScript, and GitHub Pages deployment.
 
-## 🚀 Getting Started
+## Live Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+View the deployed project here:  
+[https://harinivenkat23.github.io/react-series-dashboard](https://harinivenkat23.github.io/react-series-dashboard)
 
-### Available Scripts
+## Technologies Used
 
-In the project directory, you can run:
+- React (v19.1.0)
+- JavaScript (ES6+)
+- GitHub Pages for hosting
+- VS Code, npm, and PowerShell for local development
 
-- `npm start`: Runs the app in development mode at [http://localhost:3000](http://localhost:3000)
-- `npm test`: Launches the test runner
-- `npm run build`: Builds the app for production
-- `npm run eject`: Ejects configuration files (use with caution)
+## Features
 
-## 📁 Features
+- Structured layout with reusable React components
+- Displays static content for series cards with titles, images, and metadata
+- Ready to expand with search, filter, and user interaction
 
-- Series card layout with title, category, and toggle logic
-- Search box with dynamic filtering
-- Responsive design and clean layout
-- Organized components in `src/components/`
+## What I Learned
 
-## 📸 Preview
+- Building and organizing components in React
+- Configuring routing with HashRouter for GitHub Pages
+- Deploying React apps using the gh-pages package
+- Handling common setup and deployment issues
 
-*You can upload a screenshot and link it here like:*
+## Next Steps
 
-```md
-![Dashboard Preview](dashboard-screenshot.png)
+- Connect the frontend to a MongoDB backend
+- Add dynamic data fetching, filtering, and sorting
+- Implement user authentication for personalized dashboards
+
+## Contact
+
+Feedback and collaboration are always welcome.  
+GitHub Profile: [https://github.com/harinivenkat23](https://github.com/harinivenkat23)
